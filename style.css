@@ -45,14 +45,9 @@ header h1 {
     padding-right: 10px;
 }
 .col-md-6 .media-object {
-<<<<<<< HEAD
-    max-width: 100px;
-    border-radius: 100px;
-=======
     width: 100px;
     height: 100px;
     border-radius: 50%;
->>>>>>> 27b8f0e37899bfaac390ef0336907505d1ef4db9
 }
 .row  .media-body h5 {
     text-transform: uppercase;
