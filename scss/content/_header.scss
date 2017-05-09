@@ -1,0 +1,19 @@
+
+header {
+  height: 180px;
+  margin-bottom: 20px;
+
+  h1 {
+    line-height: 4.5;
+  }
+  .logo {
+    min-height: inherit;
+    width: 11%;
+    float: left;
+    margin-right: 15px;
+
+    img {
+      width: 125px;
+    }
+  }
+}
